@@ -24,13 +24,17 @@
                       
                 
 
-### 最新職缺
+
 
 ### 法令專區
+ [勞基法](https://laws.mol.gov.tw/FLAW/FLAWDAT0201.aspx?lsid=FL014930)
+ [雇主違反法令公告](https://bola.gov.taipei/News.aspx?n=7C26DE8810A680AC&sms=EBEC4546C77557A3)
+ [求職防詐騙暨就業隱私](http://job7n3y.bola.taipei/)
+ [就業歧視](https://bola.gov.taipei/News_Content.aspx?n=FDEDF5DCB0A26A46&sms=87415A8B9CE81B16&s=F13C955487A5AEBA)
 
-### Skills
+
 
 
 ### Support or Contact
 Vickie Lin
-[Link](vickie.ctc@gmail.com)
+vickie.ctc@gmail.com
