@@ -32,5 +32,5 @@
 
 
 ### Support or Contact
-Vickie
-vickie.ctc@gmail.com
+Vickie Lin
+[Link](vickie.ctc@gmail.com)
