@@ -1,11 +1,38 @@
-## Welcome to GitHub Pages
+## 公司簡介
+怡和企管顧問致力於與企業及人才建立長久的合作關係
+            秉持誠信與專業作為客戶與人才間的橋樑
 
-You can use the [editor on GitHub](https://github.com/vickiectc/office/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ 尊重並保護雙方的隱私與期望 真實傳遞人才訊息
+ 每一份履歷都是經過求職者同意並經過顧問嚴謹的面試和把關
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 保證資訊不失真
 
-### Markdown
+          
+            <ul class="fa-ul mb-0">
+              <li>
+                <i class="fa-li fa fa-check"></i>
+                <div class="subheading mb-3">成立宗旨</div>
+                <p>提供專業人力資源策略規劃</p>
+                <p>創造人才資產價值</p>
+                <p>建立企業組織競爭優勢</p></li>
+                <li>
+                  <i class="fa-li fa fa-check"></i>
+                  <div class="subheading mb-3">主要業務</div>
+                  <ol>
+                      <li>協助國內外企業招募專業人才及經理人</li>
+                      <li>提供優質人才搜尋</li>
+                      <li>提供全方位的人力資源服務</li>
+                      <li>中高階／專業人才甄選、聘雇</li>
+                      <li>正職人員招募</li>
+                      <li>薪資管理服務</li>
+                      </ol>
+                </li>
 
+### 最新職缺
+
+### 法令專區
+
+### Skills
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
